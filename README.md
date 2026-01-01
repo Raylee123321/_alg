@@ -11,7 +11,7 @@
 -----------------
 HW1  
 
-[HW2](https://github.com/Raylee123321/_alg/tree/main/HW2)  
+[HW2](https://github.com/Raylee123321/_alg/tree/main/HW2.1)  
 
 [HW3](https://github.com/Raylee123321/_alg/tree/main/HW3)    
 
