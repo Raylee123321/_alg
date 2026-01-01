@@ -1,0 +1,1 @@
+**[對話](https://gemini.google.com/share/460eacd8ee93)**
